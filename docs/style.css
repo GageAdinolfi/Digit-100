@@ -15,6 +15,7 @@ color:red;
 nav { 
     background: #c9ecf2;
     font-weight: bold;
+    border: 2px solid black;
 
 }
 
@@ -37,6 +38,3 @@ ol.resume  {
 
 }
 
-.navborder {
-  border: 2px solid powderblue;
-}
