@@ -36,3 +36,7 @@ ol.resume  {
     list-style-type: lower-roman;
 
 }
+
+.navborder {
+  border: 2px solid powderblue;
+}
