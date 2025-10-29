@@ -15,6 +15,7 @@ color:red;
 nav { 
         font-weight: bold;
     border: 2px solid black;
+    padding: 30px;
 
 }
 
